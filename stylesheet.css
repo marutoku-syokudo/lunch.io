@@ -36,7 +36,7 @@ li{
 .back{
   background-color: #ffffff; /* 背景色を指定（白色） */
     padding: 10px 50px 35px;
-    margin:0 10% 20%;
+    margin:0 10% 10%;
     border-radius: 10px;
     border: 2px solid black; /* 黒い線を追加 */
 }
